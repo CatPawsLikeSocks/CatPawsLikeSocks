@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @CatPawsLikeSocks (Kelsey in the real world)
+- :cactus: I live in Phoenix, AZ, USA 
 - :book: I’m interested in learning more about data, and different ways to work with it
-- 🌱 I’m currently learning more advanced Excel, via Udemy. More in depth SQL and Tableau are next 
+- 🌱 I recently finished the Google Data Analytics certificate course, and am now learning more advanced Excel, via Udemy. Next will be more advanced SQL and Tableau!
+-  :airplane: In my free time I enjoy traveling, reading, puzzles, video games, board games and craft beer.
 - 💞️ I’m looking to collaborate on practice projects, or learning together
 - 📫 You can reach me here, on GitHub! 
 
