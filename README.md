@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CatPawsLikeSocks (Kelsey in the real world)
-- 👀 I’m interested in learning more about data, and different ways to work with it
+- :book: I’m interested in learning more about data, and different ways to work with it
 - 🌱 I’m currently learning more advanced Excel, via Udemy. More in depth SQL and Tableau are next 
 - 💞️ I’m looking to collaborate on practice projects, or learning together
 - 📫 You can reach me here, on GitHub! 
